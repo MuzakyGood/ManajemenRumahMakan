@@ -1,0 +1,9 @@
+# Visual Studio Code configuration directory
+.vscode
+
+# Static link, binary, executable
+.exe
+.o
+.a
+.so
+.dll
