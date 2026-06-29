@@ -231,7 +231,7 @@ if __name__ == "__main__":
     q = Queue()
     pelanggan = Queue()
 
-    print("\t\tAPLIKASI PROSES ANTRIAN\n")
+    print("\t\tAPLIKASI MANAJEMEN RUMAH MAKAN\n")
 
     try:
         jumlahPengunjung = int(input("Masukan jumlah pengunjung: "))
